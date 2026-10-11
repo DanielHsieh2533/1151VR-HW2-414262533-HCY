@@ -1,5 +1,5 @@
 # 1151VR-HW2-414262533-HCY
-![ima] 螢幕擷取畫面 2026-10-11 125212.png
+![ima] (螢幕擷取畫面 2026-10-11 125212.png)
 
 https://github.com/DanielHsieh2533/1151VR-HW2-414262533-HCY
 
